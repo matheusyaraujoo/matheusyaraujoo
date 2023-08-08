@@ -12,7 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align= "center" alt= "Rafa-HTML" height="30" width="40" > <i class="devicon-html5-plain-wordmark"></i>
+  <img align="center" alt= "Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
   
 </div>
