@@ -12,9 +12,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt= "Rafa-HTML" height="30" width="40"  rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-          
+  <img align="center" alt= "Rafa-HTML" height="80" width="90"  src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+  <img align="center" alt= "Rafa-CSS" height="80" width="90"  src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+  <img align="center" alt= "Rafa-JS" height="70" width="80"  src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="center" alt= "Rafa-C#" height="75" width="85"  src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+    <img align="center" alt= "Rafa-PHP" height="90" width="100"  src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
-  
+
+          
 </div>
