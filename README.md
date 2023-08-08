@@ -3,6 +3,7 @@
 - ⚡ Especialista em front-end
 - 🌱 Me aperfeiçoando em back-end
 - 💬 Futuro full-stack
+- 📭 Email: matheusyaraujo@outlook.com
 
 <div>
   <a href="https://github.com/matheusyaraujoo">
