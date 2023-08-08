@@ -17,7 +17,5 @@
   <img align="center" alt= "Rafa-JS" height="70" width="80"  src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" alt= "Rafa-C#" height="75" width="85"  src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
     <img align="center" alt= "Rafa-PHP" height="90" width="100"  src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-
           
 </div>
