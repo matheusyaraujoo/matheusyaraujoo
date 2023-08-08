@@ -8,6 +8,6 @@
 
 <div>
   <a href="https://github.com/matheusyaraujoo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusyaraujoo&show_icons=true&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusyaraujoo&show_icons=true&theme=chartreuse-dark"/>
     
 </div>
