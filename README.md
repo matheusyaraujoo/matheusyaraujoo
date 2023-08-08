@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Matheus Araujo 👋🏼
 
-- ⚡ Especialista em front-end         - 💬 Futuro full-stack
-- 🌱 Me aperfeiçoando em back-end      - 📫 Email: matheusyaraujo@outlook.com
+- ⚡ Especialista em front-end
+- 💬 Futuro full-stack
+- 🌱 Me aperfeiçoando em back-end
+- 📫 Email: matheusyaraujo@outlook.com
 
 <div>
   <a href="https://github.com/matheusyaraujoo">
