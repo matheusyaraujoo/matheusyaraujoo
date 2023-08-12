@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Araujo 👋🏼
 
 - ⚡ Full Stack
-- 🌱 DEV com pouca experiência
+- 🌱 DEV Júnior
 - 📭 Email: matheusyaraujo@outlook.com
 
 <div>
