@@ -15,7 +15,7 @@
   <img align="center" height="80" width="90"  src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" height="70" width="80"  src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" height="90" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img align="center" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="180" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
 
           
